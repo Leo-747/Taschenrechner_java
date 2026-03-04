@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Mane {
+public class Calculator {
     public static int div(int a, int b) {
         return (a / b);
     }public static int multy(int a, int b) {
