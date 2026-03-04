@@ -12,8 +12,8 @@ A simple, method-based calculator built with **Java** to practice static methods
 - **Input Handling:** `java.util.Scanner`
 
 ## 🕹️ How to Use
-1. Compile the file: `javac Mane.java`
-2. Run the program: `java Mane`
+1. Compile the file: `javac Calculator.java`
+2. Run the program: `calculator Mane`
 3. Type the operation (`plus`, `minus`, `multy`, `divide`) and then enter two integers.
 4. Type `stop` to exit.
 
